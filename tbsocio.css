@@ -111,7 +111,7 @@ iframe{
 .video1, .video2, .descr1, .descr2{
     border: 1px solid rgba(255, 255, 255, 0);
 }
-.situa1, .situa2, .situa3, .situa3, .situa4, .situa5, .textoanarq, .descr1, .descr2{
+.situa1, .situa2, .situa3, .situa3, .situa4, .situa5, .situa12, .situa13, .situa14, .situa15, .textoanarq, .descr1, .descr2{
     text-align:justify;
     text-indent:10%;
 }
@@ -133,6 +133,6 @@ iframe{
     border:1px solid black;
     border-radius:50px;
 }
-.card-text{
+.instagram{
     text-decoration:underline;
 }
